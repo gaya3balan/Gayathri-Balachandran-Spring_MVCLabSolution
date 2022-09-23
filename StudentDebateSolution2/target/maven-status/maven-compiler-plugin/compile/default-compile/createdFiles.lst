@@ -1,0 +1,5 @@
+com\gl\studentDebate\controller\StudentDebateController.class
+com\gl\studentDebate\service\StudentDebateServiceImpl.class
+com\gl\studentDebate\entity\Student.class
+com\gl\studentDebate\controller\HelloController.class
+com\gl\studentDebate\service\StudentDebateService.class
